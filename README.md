@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🔭 Hi, my name is <b>James</b>. I am a CS student at Johns Hopkins University in the combined BS/MSE program.
-- 🌱 I’m currently learning about Azure Cloud Services, particularly for machine learning.
+- 🌱 I’m currently learning about Microsoft Azure cloud services, particularly for machine learning.
 - 😄 I am looking for new grad software engineering roles.
 - 📫 How to reach me:
     - LinkedIn: https://www.linkedin.com/in/jyu132/

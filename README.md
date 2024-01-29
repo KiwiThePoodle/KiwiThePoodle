@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg)](https://shields.io/category/tools)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-00FF00.svg)](https://shields.io/category/tools)
 [![Large Language Models](https://img.shields.io/badge/Large_Language_Models-FF8C00.svg)](https://shields.io/category/tools)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering.svg)](https://shields.io/)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blue.svg)](https://shields.io/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg)](https://shields.io/category/tools)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)](https://shields.io/category/tools)
 [![Git](https://img.shields.io/badge/Git-F05032.svg)](https://shields.io/category/tools)

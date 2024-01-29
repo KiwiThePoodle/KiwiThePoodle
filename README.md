@@ -38,19 +38,26 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS3-1572B6.svg)](https://shields.io/category/languages)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg)](https://shields.io/category/languages)
 
-##### Tools/Platforms
+##### Technical Skills & Frameworks
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg)](https://shields.io/category/tools)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg)](https://shields.io/category/tools)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg)](https://shields.io/category/tools)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg)](https://shields.io/category/tools)
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-00FF00.svg)](https://shields.io/category/tools)
+[![Large Language Models](https://img.shields.io/badge/Large_Language_Models-FF8C00.svg)](https://shields.io/category/tools)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Your_Description-<COLOR>.svg)](https://shields.io/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg)](https://shields.io/category/tools)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)](https://shields.io/category/tools)
 [![Git](https://img.shields.io/badge/Git-F05032.svg)](https://shields.io/category/tools)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg)](https://shields.io/category/tools)
+[![MERN Stack](https://img.shields.io/badge/MERN-000000.svg)](https://shields.io/category/tools)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg)](https://shields.io/category/tools)
 [![Express.js](https://img.shields.io/badge/Express.js-000000.svg)](https://shields.io/category/tools)
 [![React.js](https://img.shields.io/badge/React.js-61DAFB.svg)](https://shields.io/category/tools)
 [![Node.js](https://img.shields.io/badge/Node.js-339933.svg)](https://shields.io/category/tools)
 [![JUnit](https://img.shields.io/badge/JUnit-25A162.svg)](https://shields.io/category/tools)
 [![Mockito](https://img.shields.io/badge/Mockito-DA383C.svg)](https://shields.io/category/tools)
+[![Agile](https://img.shields.io/badge/Agile-0093D7.svg)](https://shields.io/category/methodologies)
 
 ## My Projects
 

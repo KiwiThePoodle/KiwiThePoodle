@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ##### Languages
 
-[![Java](https://img.shields.io/badge/Java-007396.svg)](https://shields.io/category/languages)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg)](https://shields.io/category/languages)
+[![Java](https://img.shields.io/badge/Java-007396.svg)](https://shields.io/category/languages)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg)](https://shields.io/category/languages)
 [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C.svg)](https://shields.io/category/languages)
 [![C#](https://img.shields.io/badge/C%23-239120.svg)](https://shields.io/category/languages)
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blue.svg)](https://shields.io/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg)](https://shields.io/category/tools)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)](https://shields.io/category/tools)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6.svg)](https://azure.microsoft.com/)
 [![Git](https://img.shields.io/badge/Git-F05032.svg)](https://shields.io/category/tools)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg)](https://shields.io/category/tools)
 [![MERN Stack](https://img.shields.io/badge/MERN-000000.svg)](https://shields.io/category/tools)

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🔭 Hi, my name is <b>James</b>. I am a CS student at Johns Hopkins University in the combined BS/MSE program.
-- 🌱 I am currently exploring Machine Learning though NumPy, Pandas, Matplotlib, SciPy, and Scikit-Learn. I am also learning about Microsoft Azure cloud services.
+- 🌱 I am currently exploring Machine Learning through NumPy, Pandas, Matplotlib, SciPy, and Scikit-Learn. I am also learning about Microsoft Azure cloud services.
 - 😄 I am looking for new grad AI/ML software engineering roles.
 - 📫 How to reach me:
     - LinkedIn: https://www.linkedin.com/in/jyu132/
